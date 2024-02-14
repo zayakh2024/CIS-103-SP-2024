@@ -1,1 +1,5 @@
 # spring 2024 - Truman College
+myName = "Zaya Khananu"
+myColleg="Truman College"
+myAddress="1145 West Wilson Ave, Chicago IL 60659"
+print(myName,myCollege,myAddress)
